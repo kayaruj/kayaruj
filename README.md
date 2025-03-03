@@ -46,12 +46,6 @@ Hello! I’m Kayo César, born in 2008, and passionate about <b>Android developm
       </a>
       <br>JAVASCRIPT
     </td>  
-    <td align="center" width="110">
-      <a href="https://crystal-lang.org/">
-        <img src="icons/languages/crystallang.svg" width="50" height="50" alt="Crytal lang logo" />
-      </a>
-      <br>CRYSTAL
-    </td>
   </tr>
 </table>
 </p>
@@ -60,23 +54,23 @@ Hello! I’m Kayo César, born in 2008, and passionate about <b>Android developm
   <h3><i>IDEs :</i></h3>
   <table>
   <tr border: none;>
-<!--     <td align="center" width="110">
-      <a href="https://developer.android.com/studio">
-        <img src="icons/ides/androidstudio.svg" width="50" height="50" alt="Android Studio logo" />
-      </a>
-      <br>ANDROID STUDIO
-    </td>	   -->
+	<td align="center" width="110">
+	      <a href="https://developer.android.com/studio">
+	        <img src="icons/ides/androidstudio.svg" width="50" height="50" alt="Android Studio logo" />
+	      </a>
+	      <br>ANDROID STUDIO
+    	</td>
     <td align="center" width="110">
-      <a href="https://www.jetbrains.com/pt-br/idea/">
-        <img src="icons/ides/intellij-idea.svg" width="50" height="50" alt="Intellij IDEA logo" />
-      </a>
-      <br>INTELLIJ IDEA
+	      <a href="https://www.jetbrains.com/pt-br/idea/">
+	        <img src="icons/ides/intellij-idea.svg" width="50" height="50" alt="Intellij IDEA logo" />
+	      </a>
+	      <br>INTELLIJ IDEA
     </td>
     <td align="center" width="110">
-      <a href="https://code.visualstudio.com/">
-        <img src="icons/ides/vscode.svg" width="50" height="50" alt="Vs Code logo" />
-      </a>
-      <br>VS CODE
+	      <a href="https://code.visualstudio.com/">
+	        <img src="icons/ides/vscode.svg" width="50" height="50" alt="Vs Code logo" />
+	      </a>
+	      <br>VS CODE
   </tr>
 </table>
 </p>
@@ -114,14 +108,14 @@ Hello! I’m Kayo César, born in 2008, and passionate about <b>Android developm
   
   <br />
         <img src="https://github-readme-stats.vercel.app/api?username=balah7&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&title_color=c6a0f6&text_color=8aadf4&icon_color=f5a97f&include_all_commits=true&bg_color=24273a&border_color=8087a2&border_radius=15" alt="Github Stats"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balah7&layout=donut-vertical&theme=dark&title_color=c6a0f6&text_color=8aadf4&icon_color=f5a97f&bg_color=24273a&border_color=24273a&border_radius=15" alt="Most used languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayaruj&layout=donut-vertical&theme=dark&title_color=c6a0f6&text_color=8aadf4&icon_color=f5a97f&bg_color=24273a&border_color=24273a&border_radius=15" alt="Most used languages"/>
 </details>
 
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
   <br/>
 
-  <img height="180em" src="https://streak-stats.demolab.com?user=balah7&theme=catppuccin-macchiato&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=500" alt="Github Streaks" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=kayaruj&theme=catppuccin-macchiato&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=500" alt="Github Streaks" />
 </details>
 
 <details>	
@@ -196,7 +190,7 @@ Hello! I’m Kayo César, born in 2008, and passionate about <b>Android developm
 
 ### Thank you for getting here! ❤️🍬
 
-<img src="https://readme-daily-quotes.vercel.app/api?author=Matuê&quote=Sozin+na+minha+caminhada+e+tô+vencendo+a+batalha.&bg_color=24273a&quote_color=cad3f5&author_color=cad3f5&accent_color=c6a0f6&border_color=8087a2&border_radius=15"/>
+<img src="https://readme-daily-quotes.vercel.app/api?author=Matuê&quote=🐴+Mil+cavalos,+hoje+eu+'to+voando.+Num+portal,+chegando+em+outro+plano.&bg_color=24273a&quote_color=cad3f5&author_color=cad3f5&accent_color=c6a0f6&border_color=8087a2&border_radius=15"/>
 
 </div>
 
