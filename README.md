@@ -23,7 +23,7 @@ Hello! I’m Kayo César, born in 2008, and passionate about <b>Android developm
 
 <p align="left">
   <a href="https://www.linkedin.com/in/balah7/" target="_blank"><img alt="Icon LinkedIn (profile)" src="icons/social/linkedin.svg" width="50" height="50" style="margin-right: 32px; margin-left: 43px;"></a>
-  <a href="https://www.instagram.com/bal4h7/" target="_blank"><img alt="Icon Instragram (profile)" src="icons/social/instagram.svg" width="50" height="50" style="margin-right: 32px;"></a>
+  <a href="https://www.instagram.com/kayaruj3/" target="_blank"><img alt="Icon Instragram (profile)" src="icons/social/instagram.svg" width="50" height="50" style="margin-right: 32px;"></a>
   <a href="https://www.youtube.com/channel/UC5EbVrq3WHkwRDUzbQaS5ig"><img alt="Icon Youtube (channel)" src="icons/social/youtube.svg" width="50" height="50" style="margin-right: 32px;"></a> 
   <a href="https://discord.gg/RphRA56rM7"><img alt="Icon Discord (prfile)" src="icons/social/discord.svg" width="50" height="50"></a> 
 </p>
