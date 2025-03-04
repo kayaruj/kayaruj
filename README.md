@@ -1,8 +1,9 @@
-# 🍬 Hello, I'm Balah, a little programming student.
+# 🍬 Hello, I'm Kayo, a little programming student.
 
 <img align="right" alt="GIF" src="icons/gifs/codelife.gif" width="40%" />
+
 <p width="40%">
-Hello! Pleasure to meet you. Allow me to introduce myself briefly.
+  Hello! Pleasure to meet you. Allow me to introduce myself briefly.
   <ul>
     <li>💻 I want to be a <b>Software Engineer</b>;</li>
     <li>📍 I am from <b>Brazil 🇧🇷</b>;</li>
@@ -13,27 +14,48 @@ Hello! Pleasure to meet you. Allow me to introduce myself briefly.
     <li>☕ I do not like <b>Coffee</b>;</li>
     <li>🎛️ I'm unmatched when it comes to <b>Matuê</b>.</li>
   </ul>
+</p>
 
 <hr>
-Hello! I’m Kayo César, born in 2008, and passionate about <b>Android development</b>. I’m currently studying <b>Kotlin</b> to start exploring the Android world and create useful and practical apps for everyday life. Although I have Type 1 diabetes, I lead a normal life with proper care. Alongside coding, I’m also diving into <b>English</b> studies, currently at a beginner level. My favorite programming language is <b>Crystal</b>, and I plan to specialize in backend development with it in the future. I also dabble in Node.js with <b>JavaScript</b> since it was my first programming language. Additionally, I create content on <b>YouTube</b> to share experiences, stories, and some programming tips. Feel free to reach out to me through my social media. Cheers! 🚀 <3
 
+<p>
+  Hello! I’m Kayo César, born in 2008, and passionate about <b>Android development</b>. 
+  I’m currently studying <b>Kotlin</b> to start exploring the Android world and create useful and practical apps for everyday life. 
+  Although I have Type 1 diabetes, I lead a normal life with proper care. 
+  Alongside coding, I’m also diving into <b>English</b> studies, currently at a beginner level. 
+  My favorite programming language is <b>Crystal</b>, and I plan to specialize in backend development with it in the future. 
+  I also dabble in Node.js with <b>JavaScript</b> since it was my first programming language. 
+  Additionally, I create content on <b>YouTube</b> to share experiences, stories, and some programming tips. 
+  Feel free to reach out to me through my social media. Cheers! 🚀 <3
 </p>
 
-## 🌐 Find more about me at :
+---
+
+## 🌐 Find more about me at:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/balah7/" target="_blank"><img alt="Icon LinkedIn (profile)" src="icons/social/linkedin.svg" width="50" height="50" style="margin-right: 32px; margin-left: 43px;"></a>
-  <a href="https://www.instagram.com/kayaruj3/" target="_blank"><img alt="Icon Instragram (profile)" src="icons/social/instagram.svg" width="50" height="50" style="margin-right: 32px;"></a>
-  <a href="https://www.youtube.com/channel/UC5EbVrq3WHkwRDUzbQaS5ig"><img alt="Icon Youtube (channel)" src="icons/social/youtube.svg" width="50" height="50" style="margin-right: 32px;"></a> 
-  <a href="https://discord.gg/RphRA56rM7"><img alt="Icon Discord (prfile)" src="icons/social/discord.svg" width="50" height="50"></a> 
+  <a href="https://www.linkedin.com/in/balah7/" target="_blank">
+    <img alt="Icon LinkedIn (profile)" src="icons/social/linkedin.svg" width="50" height="50">
+  </a>
+  <a href="https://www.instagram.com/kayaruj3/" target="_blank">
+    <img alt="Icon Instagram (profile)" src="icons/social/instagram.svg" width="50" height="50">
+  </a>
+  <a href="https://www.youtube.com/channel/UC5EbVrq3WHkwRDUzbQaS5ig">
+    <img alt="Icon YouTube (channel)" src="icons/social/youtube.svg" width="50" height="50">
+  </a>
+  <a href="https://discord.gg/RphRA56rM7">
+    <img alt="Icon Discord (profile)" src="icons/social/discord.svg" width="50" height="50">
+  </a> 
 </p>
 
-## 🖥️ My tech stacks :
+---
 
-<p align="right">
-  <h3><i>Languages :</i></h3>
-  <table>
-  <tr border: none;>
+## 🖥️ My Tech Stacks:
+
+### 📝 Languages:
+
+<table>
+  <tr>
     <td align="center" width="110">
       <a href="https://kotlinlang.org/">
         <img src="icons/languages/kotlin.svg" width="50" height="50" alt="Kotlin lang logo" />
@@ -42,43 +64,52 @@ Hello! I’m Kayo César, born in 2008, and passionate about <b>Android developm
     </td>	
     <td align="center" width="110">
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-        <img src="icons/languages/javascript.svg" width="50" height="50" alt="Javascript lang logo" />
+        <img src="icons/languages/javascript.svg" width="50" height="50" alt="JavaScript lang logo" />
       </a>
       <br>JAVASCRIPT
-    </td>  
-  </tr>
-</table>
-</p>
-
-<p>
-  <h3><i>IDEs :</i></h3>
-  <table>
-  <tr border: none;>
-	<td align="center" width="110">
-	      <a href="https://developer.android.com/studio">
-	        <img src="icons/ides/androidstudio.svg" width="50" height="50" alt="Android Studio logo" />
-	      </a>
-	      <br>ANDROID STUDIO
-    	</td>
-    <td align="center" width="110">
-	      <a href="https://www.jetbrains.com/pt-br/idea/">
-	        <img src="icons/ides/intellij-idea.svg" width="50" height="50" alt="Intellij IDEA logo" />
-	      </a>
-	      <br>INTELLIJ IDEA
     </td>
     <td align="center" width="110">
-	      <a href="https://code.visualstudio.com/">
-	        <img src="icons/ides/vscode.svg" width="50" height="50" alt="Vs Code logo" />
-	      </a>
-	      <br>VS CODE
+      <a href="https://crystal-lang.org/">
+        <img src="icons/languages/crystallang.svg" width="50" height="50" alt="Crystal lang logo" />
+      </a>
+      <br>CRYSTAL
+    </td>
   </tr>
 </table>
-</p>
 
-<p>
-  <h3><i>Other tools :</i></h3>
-  <table>
-  <tr border: none;>
+---
+
+### 🛠️ IDEs:
+
+<table>
+  <tr>
+    <td align="center" width="110">
+      <a href="https://developer.android.com/studio">
+        <img src="icons/ides/androidstudio.svg" width="50" height="50" alt="Android Studio logo" />
+      </a>
+      <br>ANDROID STUDIO
+    </td>
+    <td align="center" width="110">
+      <a href="https://www.jetbrains.com/pt-br/idea/">
+        <img src="icons/ides/intellij-idea.svg" width="50" height="50" alt="IntelliJ IDEA logo" />
+      </a>
+      <br>INTELLIJ IDEA
+    </td>
+    <td align="center" width="110">
+      <a href="https://code.visualstudio.com/">
+        <img src="icons/ides/vscode.svg" width="50" height="50" alt="VS Code logo" />
+      </a>
+      <br>VS<br>CODE
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🔧 Other Tools:
+
+<table>
+  <tr>
     <td align="center" width="110">
       <a href="https://www.linux.org/">
         <img src="icons/tools/linux.svg" width="50" height="50" alt="Linux logo" />
@@ -93,21 +124,22 @@ Hello! I’m Kayo César, born in 2008, and passionate about <b>Android developm
     </td>
     <td align="center" width="110">
       <a href="https://nodejs.org/en">
-        <img src="icons/tools/nodejs.svg" width="50" height="50" alt="Nodejs logo" />
+        <img src="icons/tools/nodejs.svg" width="50" height="50" alt="Node.js logo" />
       </a>
       <br>NODE JS
     </td>
   </tr>
 </table>
-</p>
 
-# 📊 Statistics :
+---
+
+## 📊 Statistics :
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
   
   <br />
-        <img src="https://github-readme-stats.vercel.app/api?username=balah7&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&title_color=c6a0f6&text_color=8aadf4&icon_color=f5a97f&include_all_commits=true&bg_color=24273a&border_color=8087a2&border_radius=15" alt="Github Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=kayaruj&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&title_color=c6a0f6&text_color=8aadf4&icon_color=f5a97f&include_all_commits=true&bg_color=24273a&border_color=8087a2&border_radius=15" alt="Github Stats"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayaruj&layout=donut-vertical&theme=dark&title_color=c6a0f6&text_color=8aadf4&icon_color=f5a97f&bg_color=24273a&border_color=24273a&border_radius=15" alt="Most used languages"/>
 </details>
 
@@ -134,44 +166,6 @@ Hello! I’m Kayo César, born in 2008, and passionate about <b>Android developm
     </a>
 </details>
 
-<!--
-<details>
-  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
-
-  <br />
-  <table>
-    <thead align="center">
-      <tr>
-        <th><b>💻 Projects</b></th>
-        <th><b>🌟 Stars</b></th>
-        <th><b>🍴 Forks</b></th>
-        <th><b>🐛 Issues</b></th>
-        <th><b>🔔 Pull Requests</b></th>
-        <th><b>👨‍💻 Language</b></th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><a href="."><b>📦 null</b></a></td>
-        <td><img alt="Stars" src="."/></td>
-        <td><img alt="Forks" src="."/></td>
-        <td><img alt="Issues" src="."/></td>
-        <td><img alt="Pull Requests" src="."/></td>
-        <td><img alt="Language" src="."/></td>
-  <!--
-  Stars: https://img.shields.io/github/stars/linitio/linitio?style=flat-square&labelColor=343b41
-  Forks: https://img.shields.io/github/forks/linitio/openstack-alpine-image?style=flat-square&labelColor=343b41
-  Issues: https://img.shields.io/github/issues/linitio/openstack-alpine-image?style=flat-square
-  PR: https://img.shields.io/github/issues-pr/linitio/openstack-alpine-image?style=flat-square
-  Lang: https://img.shields.io/github/languages/top/linitio/openstack-alpine-image?style=flat-square
-  ----------------------------------------------------------------
-      </tr>
-    </tbody>
-  </table>
-  <br />
-</details>
--->
-
 <details>	
   <br />
   <summary><b>⚙️ Hardware</b></summary>
@@ -184,25 +178,9 @@ Hello! I’m Kayo César, born in 2008, and passionate about <b>Android developm
 	</ul>	
 </details>
 
-#
-
-<div align="center">
-
-### Thank you for getting here! ❤️🍬
-
-<img src="https://readme-daily-quotes.vercel.app/api?author=Matuê&quote=🐴+Mil+cavalos,+hoje+eu+'to+voando.+Num+portal,+chegando+em+outro+plano.&bg_color=24273a&quote_color=cad3f5&author_color=cad3f5&accent_color=c6a0f6&border_color=8087a2&border_radius=15"/>
-
-</div>
-
 ---
 
-<div style="display: flex; justify-content: space-between;">
-    <div style="text-align: center; flex-basis: 50%; margin-right: 10px;">
-        <p style="font-size: 23px;"> Matuê - Anos Luz</p>
-        <img src="icons/gifs/anosluz.gif" alt="Gif Matuê anos luz" style="max-width: 100%; height: auto;">
-    </div>
-    <div style="text-align: center; flex-basis: 50%;">
-        <p style="font-size: 23px;"> Matuê - Vem Chapar</p>
-        <img src="icons/gifs/vemchapa.gif" alt="Gif matuê vem chapar" style="max-width: 100%; height: auto;">
-    </div>
+<div align="center">
+  <h3>Thanks for getting this far! ❤️🍬</h3>
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Matu%C3%AA&quote=%F0%9F%90%B4+Mil+cavalos,+hoje+eu+%27to+voando.+Num%20portal,+chegando+em+outro+plano.&bg_color=343f44&quote_color=d3c6aa&author_color=d699b6&accent_color=a7c080&border_color=8087a2&border_radius=15" />
 </div>
