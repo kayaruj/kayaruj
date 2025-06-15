@@ -19,14 +19,14 @@
 <hr>
 
 <p>
-  Hello! I’m Kayo Araujo, born in 2008, and passionate about <b>Android development</b>. 
-  I’m currently studying <b>Kotlin</b> to start exploring the Android world and create useful and practical apps for everyday life. 
-  Although I have Type 1 diabetes, I lead a normal life with proper care. 
-  Alongside coding, I’m also diving into <b>English</b> studies, currently at a beginner level. 
-  My favorite programming language is <b>Crystal</b>, and I plan to specialize in backend development with it in the future. 
-  I also dabble in Node.js with <b>JavaScript</b> since it was my first programming language. 
-  Additionally, I create content on <b>YouTube</b> to share experiences, stories, and some programming tips. 
-  Feel free to reach out to me through my social media. Cheers! 🚀 <3
+  Hello! I’m Kayo Araujo, but you can also call me <em>Balah</em>. Born in 2008, and passionate about <b>Android development</b>.
+  I’m currently studying <b>Kotlin</b> to start exploring the Android world and create useful and practical apps for everyday life.
+  Although I have Type 1 diabetes, I lead a normal life with proper care.
+  Alongside coding, I’m also diving into <b>English</b> studies, currently at a beginner level.
+  My favorite programming language is <b>Crystal</b>, and I plan to specialize in backend development with it in the future.
+  I also dabble in Node.js with <b>JavaScript</b> since it was my first programming language.
+  Additionally, I create content on <b>YouTube</b> to share experiences, stories, and some programming tips.
+  Feel free to reach out to me through my social media. Cheers! 🚀 &lt;3
 </p>
 
 ---
